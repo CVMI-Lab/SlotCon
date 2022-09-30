@@ -97,7 +97,7 @@ The following is an example usage of evaluating a pre-trained model on COCO:
 * First, link COCO to the required path:
 ```shell script
 mkdir transfer/detection/datasets
-link -s ${PATH_TO_COCO} transfer/detection/datasets/
+ln -s ${PATH_TO_COCO} transfer/detection/datasets/
 ```
 
 * Then, convert the pre-trained model to detectron2's format:
@@ -118,7 +118,7 @@ Please install `mmsegmentation` and prepare the datasets first following the off
 * First, link the datasets for evaluation to the required path:
 ```shell script
 mkdir transfer/segmentation/data
-link -s ${PATH_TO_DATA} transfer/segmentation/data/
+ln -s ${PATH_TO_DATA} transfer/segmentation/data/
 ```
 
 * Then, convert the pre-trained model to mmsegmentation's format:
