@@ -167,7 +167,7 @@ python viz_slots.py \
 If you find this repo useful for your research, please consider citing our paper:
 
 ```
-@inproceedings{wen2022self,
+@inproceedings{wen2022slotcon,
   title={Self-Supervised Visual Representation Learning with Semantic Grouping},
   author={Wen, Xin and Zhao, Bingchen and Zheng, Anlin and Zhang, Xiangyu and Qi, Xiaojuan},
   booktitle={Advances in Neural Information Processing Systems},
