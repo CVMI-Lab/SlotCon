@@ -11,7 +11,7 @@
 	Self-Supervised Visual Representation Learning with Semantic Grouping (NeurIPS 2022)<br>
   By
   <a href="https://wen-xin.info">Xin Wen</a>, 
-  <a href="https://info.zhaobc.me/">Bingchen Zhao</a>, 
+  <a href="https://bzhao.me/">Bingchen Zhao</a>, 
   <a href="https://dblp.org/pid/208/4164.html">Anlin Zheng</a>, 
   <a href="https://scholar.google.com/citations?user=yuB-cfoAAAAJ">Xiangyu Zhang</a>, and 
   <a href="https://xjqi.github.io/">Xiaojuan Qi</a>.
