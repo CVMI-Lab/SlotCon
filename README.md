@@ -1,7 +1,7 @@
 # Self-Supervised Visual Representation Learning with Semantic Grouping
 
 <p align="center">
-    <a href="https://nips.cc/Conferences/2022/Schedule?showEvent=55409"><img src="https://img.shields.io/badge/-NeurIPS%202022-68488b"></a>
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/6818dcc65fdf3cbd4b05770fb957803e-Abstract-Conference.html"><img src="https://img.shields.io/badge/-NeurIPS%202022-68488b"></a>
     <a href="https://arxiv.org/abs/2205.15288"><img src="https://img.shields.io/badge/arXiv-2205.15288-b31b1b"></a>
     <a href="https://wen-xin.info/slotcon"><img src="https://img.shields.io/badge/Project-Website-blue"></a>
     <a href="https://connecthkuhk-my.sharepoint.com/:f:/g/personal/xwen_connect_hku_hk/Etg2mBDKbFdPgO0W7CX5m94BAVqwX8XLhsLThlMXHIa8hg"><img src="https://img.shields.io/badge/ModelZoo-OneDrive-blue"></a>
