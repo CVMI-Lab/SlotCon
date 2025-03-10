@@ -17,6 +17,8 @@
   <a href="https://xjqi.github.io/">Xiaojuan Qi</a>.
 </p>
 
+🚀 Check out more: Extension to vision transformers, larger-scale and more types of data, and evaluations on robotics: [SlotMIM](https://github.com/CVMI-Lab/SlotMIM).
+
 ## Introduction
 
 We propose contrastive learning from data-driven semantic slots, namely SlotCon, for joint semantic grouping and representation learning. The semantic grouping is performed by assigning pixels to a set of learnable prototypes, which can adapt to each sample by attentive pooling over the feature and form new slots. Based on the learned data-dependent slots, a contrastive objective is employed for representation learning, which enhances the discriminability of features, and conversely facilitates grouping semantically coherent pixels together.
@@ -172,6 +174,13 @@ If you find this repo useful for your research, please consider citing our paper
   author={Wen, Xin and Zhao, Bingchen and Zheng, Anlin and Zhang, Xiangyu and Qi, Xiaojuan},
   booktitle={Advances in Neural Information Processing Systems},
   year={2022}
+}
+
+@inproceedings{wen2025slotmim,
+  title={A Data-Centric Revisit of Pre-Trained Vision Models for Robot Learning},
+  author={Wen, Xin and Zhao, Bingchen and Chen, Yilun and Pang, Jiangmiao and Qi, Xiaojuan},
+  booktitle={CVPR},
+  year={2025}
 }
 ```
 
